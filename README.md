@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ESCOM--IPN-0b3d91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-00b8d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visión%20Artificial-00b8d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-00b8d4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-00b8d4?style=for-the-badge" />
 </p>
 
